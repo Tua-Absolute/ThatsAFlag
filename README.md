@@ -10,7 +10,7 @@ It builds on the desktop proof of concept in [`desktop/`](desktop/), adding thre
 | Plagiarism | Only against files in a local folder | **Searches the web** for the paper's most distinctive sentences, downloads the pages, and matches them word for word and by close paraphrase. Uploaded reference files still work too |
 | Copy-paste | Fonts, colours, odd characters | Adds **.docx metadata and paste traces** (details below) |
 
-![Results for the sample paper](docs/screenshot.png)
+![Results for a sample paper](docs/screenshot.png)
 
 > These are signals worth a closer look, never proof. AI detection in particular is unreliable,
 > and the metadata signals have innocent explanations (see below). Talk with the student before
