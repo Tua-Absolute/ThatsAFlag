@@ -1,0 +1,2 @@
+# Required
+python-docx>=1.1
